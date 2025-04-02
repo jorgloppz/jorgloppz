@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Jorge López  
 
-<!--
-**jorgloppz/jorgloppz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Especialista en marketing digital y desarrollo web.  
+📍 Ubicado en Playa del Carmen, Quintana Roo.  
+🎧 Me encanta la música, especialmente el hip hop y el R&B.  
+📊 Actualmente aprendiendo programación y mejorando mi inglés.  
 
-Here are some ideas to get you started:
+## 🌟 Tecnologías y herramientas:
+- 📌 HTML, CSS, JavaScript
+- ⚙️ WordPress, Elementor
+- 🛒 Shopify, WooCommerce
+- 📈 SEO y estrategias digitales
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
