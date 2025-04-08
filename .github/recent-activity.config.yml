@@ -1,0 +1,8 @@
+activity:
+  - type: "push"
+    branches:
+      - "main"
+  - type: "issue"
+    state: "open"
+  - type: "pull_request"
+    state: "open"
